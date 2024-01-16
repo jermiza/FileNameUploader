@@ -31,15 +31,21 @@ php artisan documents-uploader:upload
 
    ```bash
    git clone https://github.com/jermiza/FileNameUploader.git
-   or
-   run command: php artisan make:command DocumentUploader
+   
+    php artisan make:command DocumentUploader
+   ```
+   
+   or run command:
+   
+      ```bash 
+    php artisan make:command DocumentUploader
    ```
 
-2. Configure USB drive root path:
+3. Configure USB drive root path:
 
    Update the `$usbDriveRoot` variable in the `DocumentUploader` class with the appropriate USB drive root path.
 
-3. Run the command:
+4. Run the command:
 
    ```bash
    php artisan documents-uploader:upload
