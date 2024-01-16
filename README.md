@@ -31,8 +31,7 @@ php artisan documents-uploader:upload
 
    ```bash
    git clone https://github.com/jermiza/FileNameUploader.git
-   
-    php artisan make:command DocumentUploader
+    
    ```
    
    or run command:
