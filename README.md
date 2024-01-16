@@ -30,7 +30,9 @@ php artisan documents-uploader:upload
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/jermiza/FileNameUploader.git
+   or
+   run command: php artisan make:command DocumentUploader
    ```
 
 2. Configure USB drive root path:
