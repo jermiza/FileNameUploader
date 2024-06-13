@@ -1,5 +1,3 @@
-Certainly! Based on your clarification, I've updated the GitHub repository description template to better reflect the nature of the Laravel command that handles any document type and can handle large files:
-
 ---
 
 # Laravel Document Uploader Command
